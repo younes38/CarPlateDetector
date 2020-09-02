@@ -14,7 +14,7 @@ I used a public DataSet provided by [Zindi](https://zindi.africa/), containing 9
 Even if I trained the model on Tunisian Plate licenses, it works well on cars from other countries.
 
 
-## Why this projec ?
+## Why this project ?
 After finishing the Deep Learning Specialization (Coursera - by Andrew Ng),  it's time to apply what I've learnt in real world problems so I started with a computer vision problem.
 
 
